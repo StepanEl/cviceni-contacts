@@ -55,3 +55,10 @@
     order: 0;
   }
 /* ----Tvoje styly----- */
+.contact:nth-child(2n){
+    background-color: white;
+}
+img {
+  border: 3px solid lightblue;
+  border-width: 2px;
+}
